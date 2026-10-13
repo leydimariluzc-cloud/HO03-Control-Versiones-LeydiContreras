@@ -1,0 +1,13 @@
+Control de Versiones
+
+## 1. Descripción del caso práctico
+En este proyecto se pondrán en práctica los fundamentos del control de versiones mediante Git y GitHub. Se utilizará un repositorio público para almacenar los archivos de manera ordenada, registrar las modificaciones realizadas y facilitar la consulta de versiones anteriores del proyecto.
+
+## 2. Objetivo del repositorio
+Aplicar las funcionalidades básicas de GitHub para administrar los archivos de un proyecto de software, realizar commits con mensajes descriptivos, trabajar con ramas y documentar los cambios efectuados. Asimismo, se busca comprender cómo integrar modificaciones mediante una pull request.
+
+## 3. Datos del estudiante
+- **Nombres y apellidos:** Leydi Contreras
+- **Actividad:** HO03 - Control de Versiones
+- **Plataforma:** GitHub
+- **Tipo de repositorio:** Público
